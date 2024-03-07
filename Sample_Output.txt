@@ -1,0 +1,38 @@
+Rank list for leaderboard :
+-------------------------
+user2 : 2000
+user5 : 1800
+user3 : 1500
+user4 : 1200
+user1 : 1000
+-------------------------
+Previous [1] & Next [1] players relative to [user3] :
+-------------------------
+user5: 1800
+user4: 1200
+-------------------------
+Previous [2] & Next [2] players relative to [user1] :
+-------------------------
+user3 : 1500
+user4 : 1200
+-------------------------
+Supported games : 
+-------------------------
+[game1]
+-------------------------
+Rank list for leaderboard :
+-------------------------
+user2: 800
+user4: 700
+user3: 600
+user1: 500
+-------------------------
+Previous [1] & Next [1] players relative to [user3] :
+-------------------------
+user4: 700
+user1: 500
+-------------------------
+Supported games : 
+-------------------------
+[game1, game2]
+-------------------------
